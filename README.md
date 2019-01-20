@@ -1,0 +1,1 @@
+This app scans all apps installed in your phone when you say "open "+"any app name" and opens the respective app for you :)
