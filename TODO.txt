@@ -1,0 +1,4 @@
+TODO :
+
+1)change app UI
+2)make app run at background any time
