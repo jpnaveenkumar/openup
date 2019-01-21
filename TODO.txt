@@ -1,4 +1,0 @@
-TODO :
-
-2)make app run at background any time
-3)add new features to the openup app
